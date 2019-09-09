@@ -5,3 +5,5 @@
 * 3.提交作业过程：
 > 本人账号（guobin）/仓库（TeamX）-分支（master）→ 组织（SubstrateOrg）/团队（TeamX）-个人分支（01-guobin）
 
+截图内容参考：
+https://shimo.im/docs/rTrGjv9Y8Pw8WXhY
